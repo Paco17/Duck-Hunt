@@ -1,4 +1,4 @@
-# Duck Hunt
+# Duck Hunt  :dog2:
 
 ## Final Design
 ![](https://github.com/Paco17/Duck-Hunt/blob/master/Game%20Design/Game%20Intro.JPG)
